@@ -10,13 +10,13 @@
 
 Your contributions are always welcome!
 
-If you want to contribute to this list (please do), send me a pull request or contact us [@amagzin](https://twitter.com/amagzin), [@picturepan2](https://twitter.com/picturepan2), [@jielong](https://twitter.com/jie1ong).
+If you want to contribute to this list (please do), send me a pull request or [contact us](mailto:hello@cypherhunter.com).
 
-* [Hacker Moon](https://www.hackermoon.io/)
+Special thanks:
+* [D1 Ventures](http://d1.ventures)
+* [Winkrypto](http://winkrypto.com)
 * [Telegram](https://t.me/)
 
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-* Special thanks to [Winkrypto](http://winkrypto.com), [ChainNews](http://chainnews.com), [Block123](http://block123.com)
