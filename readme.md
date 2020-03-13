@@ -1,8 +1,6 @@
 # Grants Programs
 
-A full list of blockchain grants and funding sources.
-
-* Special thanks to [Winkrypto](http://winkrypto.com), [ChainNews](http://chainnews.com), [Block123](http://block123.com)
+A full list of blockchain grants and funding sources. Supported by [CypherHunter.com](http://cypherhunter.com).
 
 
 ## Contents
@@ -99,13 +97,12 @@ A full list of blockchain grants and funding sources.
 
 Your contributions are always welcome!
 
-If you want to contribute to this list (please do), send me a pull request or contact us [@amagzin](https://twitter.com/amagzin), [@picturepan2](https://twitter.com/picturepan2), [@jielong](https://twitter.com/jie1ong).
+If you want to contribute to this list (please do), send me a pull request or [contact us](mailto:hello@cypherhunter.com).
 
 Special thanks:
+* [D1 Ventures](http://d1.ventures)
 * [Winkrypto](http://winkrypto.com)
-* [ChainNews](http://chainnews.com)
-* [Block123](http://block123.com)
-* [Hacker Moon](https://www.hackermoon.io/)
+* [Telegram](https://t.me/)
 
 ## License
 
