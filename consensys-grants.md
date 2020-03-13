@@ -15,11 +15,11 @@ ConsenSys Grants funds blockchain technology projects that meet the needs of a r
 
 ### Social Impact
 
-[Ribbon Blockchain](http://www.ribbonblockchain.com/) – Public Health Incentives App – $25,000
+[Ribbon Blockchain](http://www.ribbonblockchain.com/) - Public Health Incentives App - $25,000
 
 Ribbon is a public health incentives app using tokenized incentives to make positive lifestyle changes. It is focused on reducing the burden on the medical system and making communities healthier. 
 
-[Nori](http://nori.com/) – $10,000
+[Nori](http://nori.com/) - $10,000
 
 Nori is finding a way to solve climate change—not just make it less bad. Using blockchain technology to incentivize carbon removal makes sense. Nori is preventing fraud and double-counting in the carbon market, and the NORI token enables the world to set a truly market-driven price on removing a ton of carbon dioxide from the atmosphere.
 
@@ -39,7 +39,7 @@ A contract-oriented, pythonic programming language targeting the Ethereum Virtua
 
 Solving the gasless users onboarding problem in a trustless decentralized way through a network of incentivized relays. 
 
-[Notus](https://notus.events/) – $10,000
+[Notus](https://notus.events/) - $10,000
 
 Notifications and transactional email are essential for a quality user experience. Notus aims to make providing the same level of service to dapp users as easy as possible. Notus is a service that allows users to trigger webhooks from Ethereum smart contract events or Graph Protocol GraphQL subscriptions. 
 
@@ -49,7 +49,7 @@ Notifications and transactional email are essential for a quality user experienc
 
 BGC seeks to provide young women of color with the skills to both develop into thought leaders within the developer space and occupy developer, designer, and business roles in the expanding blockchain ecosystem. To do so, Black Girls CODE is developing a three-tiered blockchain program that focuses on education, immersion, and the provision of “hackternships” to test practical ecosystem knowledge. 
 
-[Africa Blockchain Developers Program](http://afriblockchain.org/developer/) –  $10,000
+[Africa Blockchain Developers Program](http://afriblockchain.org/developer/) - $10,000
 
 The goal of the Ethereum developer program is to give African developers the opportunity to gain the skills necessary to become industry-ready blockchain developers. ABA is working with our network of partners across the continent to provide mentorship and support activities to developers. Projects for participants sponsored through this grant will be social impact challenges to solve unique African problems co-ideated with ConsenSys. 
 
@@ -73,7 +73,7 @@ A complete Ethereum JavaScript library for building wallets, frameworks and tool
 
 [ETH Dev Tools](https://kauri.io/article/03a1ce4d66aa47e2a935f7d65f936371/eth-dev-tools) – $10,000
 
-‘Swiss-army knife’ chrome extension tool that gives developers strong inspection, debugging, and manual testing abilities during dapp development.
+“Swiss-army knife” chrome extension tool that gives developers strong inspection, debugging, and manual testing abilities during dapp development.
 
 [Mailchain](https://mailchain.xyz/) – $25,000
 
@@ -151,13 +151,13 @@ The next step of the Burner Wallet project is to extend further than a simple on
 
 Your contributions are always welcome!
 
-If you want to contribute to this list (please do), send me a pull request or contact us [@amagzin](https://twitter.com/amagzin), [@picturepan2](https://twitter.com/picturepan2), [@jielong](https://twitter.com/jie1ong).
+If you want to contribute to this list (please do), send me a pull request or [contact us](mailto:hello@cypherhunter.com).
 
-* [Hacker Moon](https://www.hackermoon.io/)
+Special thanks:
+* [D1 Ventures](http://d1.ventures)
+* [Winkrypto](http://winkrypto.com)
 * [Telegram](https://t.me/)
 
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-* Special thanks to [Winkrypto](http://winkrypto.com), [ChainNews](http://chainnews.com), [Block123](http://block123.com)
